@@ -17,6 +17,7 @@
     "scripts": [
       "vendor.js",
       "background_csv_editor_popup_vision_editor.js",
+      "background_popup.js",
       "background.js"
     ],
     "persistent": true
